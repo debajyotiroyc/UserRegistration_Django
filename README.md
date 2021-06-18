@@ -1,2 +1,2 @@
 # UserRegistration_Django
-User Registration in django
+User Registration using form in django.
